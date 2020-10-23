@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61a3844a-8db3-43a9-ba5c-13e0a29c1e71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Intra_Projects_Philosophers_Edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr.subject_philosophers.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/obj/display.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/obj/libft.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/obj/life.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/obj/status.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/srcs/display.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/srcs/life.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_one/srcs/status.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/includes/philosophers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/display.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/get_time.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/libft.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/life.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/status.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/obj/utils.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/philo_three" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/display.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/get_time.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/libft.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/life.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/status.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/srcs/utils.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_three/test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/obj/display.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/obj/libft.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/obj/life.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/obj/status.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/philo_two" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/srcs/display.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/srcs/libft.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/srcs/life.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philo_two/srcs/status.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/fr.subject_philosophers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/includes/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/includes/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/obj/get_time.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/obj/get_time.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/obj/libft_utils_1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/obj/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/obj/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/obj/utils.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/obj/utils.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/philo_one" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/philo_one" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/srcs/get_time.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/srcs/get_time.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/srcs/libft_utils_1.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/srcs/libft.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/srcs/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/srcs/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/srcs/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/srcs/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/fr.subject_philosophers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/includes/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/includes/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/obj/get_time.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/obj/get_time.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/obj/libft_utils_1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/obj/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/obj/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/obj/utils.o" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/obj/utils.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/philo_one" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/srcs/get_time.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/srcs/get_time.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/srcs/libft_utils_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/srcs/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/srcs/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/srcs/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/srcs/utils.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/philo_one" />
+  </component>
+  <component name="ProjectId" id="1iHBZReZFIUzfDisn2R1xkTmsVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/correction/aurbuche" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/philo_one/srcs" />
+      <recent name="$PROJECT_DIR$/philo_one/includes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a3844a-8db3-43a9-ba5c-13e0a29c1e71" name="Default Changelist" comment="" />
+      <created>1601554691699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601554691699</updated>
+      <workItem from="1601554692736" duration="6536000" />
+      <workItem from="1601564361203" duration="1441000" />
+      <workItem from="1601565814422" duration="2016000" />
+      <workItem from="1601645276768" duration="2494000" />
+      <workItem from="1601647944259" duration="7951000" />
+      <workItem from="1601806427543" duration="1570000" />
+      <workItem from="1601886936891" duration="5842000" />
+      <workItem from="1601897029843" duration="552000" />
+      <workItem from="1601897737855" duration="12739000" />
+      <workItem from="1601978477868" duration="184000" />
+      <workItem from="1601982548230" duration="9809000" />
+      <workItem from="1602058514370" duration="1985000" />
+      <workItem from="1602072529233" duration="861000" />
+      <workItem from="1602143423672" duration="3622000" />
+      <workItem from="1602152881533" duration="19231000" />
+      <workItem from="1602227024694" duration="687000" />
+      <workItem from="1602241945733" duration="812000" />
+      <workItem from="1602245185958" duration="3484000" />
+      <workItem from="1602573975036" duration="20000" />
+      <workItem from="1602581825437" duration="883000" />
+      <workItem from="1602587121308" duration="599000" />
+      <workItem from="1602597339758" duration="953000" />
+      <workItem from="1602839480521" duration="853000" />
+      <workItem from="1602849373829" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2828" y="347" width="801" height="770" key="#C/C++" timestamp="1601555457439">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2828" y="347" width="801" height="770" key="#C/C++/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1601555457439" />
+    <state x="2828" y="394" width="800" height="677" key="#New_File_Extensions" timestamp="1601897843923">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2828" y="394" width="800" height="677" key="#New_File_Extensions/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1601897843923" />
+    <state x="2941" y="534" width="608" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601904626043">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2941" y="534" width="608" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1601904626043" />
+    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602849570244">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1602849570244" />
+    <state x="2722" y="367" key="SettingsEditor" timestamp="1601910453765">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2722" y="367" key="SettingsEditor/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1601910453765" />
+    <state x="2087" y="125" width="2293" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602153724233">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2087" y="125" width="2293" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1602153724233" />
+    <state x="2924" y="341" width="618" height="783" key="find.popup" timestamp="1602171518574">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2924" y="341" width="618" height="783" key="find.popup/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1602171518574" />
+    <state x="2897" y="343" key="run.anything.popup" timestamp="1602156987040">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2897" y="343" key="run.anything.popup/1920.0.2560.1440/0.160.1920.1080/4480.200.1920.1080@1920.0.2560.1440" timestamp="1602156987040" />
+  </component>
+</project>
